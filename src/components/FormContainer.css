@@ -1,0 +1,64 @@
+.group-child {
+  position: absolute;
+  height: 100%;
+  width: 99.47%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0.53%;
+  background-color: var(--color-gainsboro-100);
+}
+.dagawin-maria-kathrine1 {
+  font-weight: 500;
+}
+.b1 {
+  font-family: var(--font-be-vietnam-pro);
+}
+.dagawin-maria-kathrine-d {
+  margin: 0;
+}
+.dagawin-maria-kathrine-container1 {
+  position: absolute;
+  height: 18.32%;
+  width: 99.47%;
+  top: 71.73%;
+  left: 0;
+  white-space: pre-wrap;
+  display: inline-block;
+}
+.the-creators1,
+.ui-design-project {
+  position: absolute;
+  height: 22.51%;
+  width: 99.47%;
+  top: 49.21%;
+  left: 0;
+  font-size: var(--font-size-6xl);
+  font-weight: 900;
+  display: inline-block;
+}
+.ui-design-project {
+  top: 16.23%;
+  left: 0.53%;
+  font-size: var(--font-size-21xl);
+}
+.rectangle-parent {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.gallery-view-more-inner {
+  position: absolute;
+  top: 1414px;
+  left: 495px;
+  width: 944px;
+  height: 191px;
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-be-vietnam-pro);
+}
